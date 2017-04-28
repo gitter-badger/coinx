@@ -1,4 +1,4 @@
-# CoinX [![License](http://img.shields.io/badge/license-mit-blue.svg?style=flat-square)](https://raw.githubusercontent.com/tokeneye/coinx/master/LICENSE) [![Twitter](https://img.shields.io/badge/twitter-%40tokeneyeapp-blue.svg?style=flat-square)](https://twitter.com/tokeneyeapp) [![Donate](https://img.shields.io/badge/donate-bitcoin-yellow.svg?style=flat-square)](#donate)
+# CoinX [![License](http://img.shields.io/badge/license-mit-blue.svg?style=flat-square)](https://raw.githubusercontent.com/tokeneye/coinx/master/LICENSE) [![Twitter](https://img.shields.io/badge/twitter-%40tokeneyeapp-blue.svg?style=flat-square)](https://twitter.com/tokeneyeapp) [![Go Report Card](https://goreportcard.com/badge/github.com/tokeneye/coinx)](https://goreportcard.com/report/github.com/tokeneye/coinx) [![Donate](https://img.shields.io/badge/donate-bitcoin-yellow.svg?style=flat-square)](#donate)
 
 CoinX is a Go library providing a streamlined API for interacting with Bitcoin and Altcoin exchanges providing a consistent interface for trading and accessing market data.
 
